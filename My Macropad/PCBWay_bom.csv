@@ -1,0 +1,10 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,Sim.Device,Sim.Pins,STANDARD,MANUFACTURER
+", , , , , ",6,,,,,,tht,,,,,
+"D2-D14, D2-D21",2,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_MX_label2,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_MX_label2,,,,tht,,,,,
+"D2-D15, D2-D18, D2-D7, D3-D14, D3-D18, D3-D21, D3-D7, D4-D14, D4-D21, D5-D14, D5-D15, D5-D18, D5-D21, D5-D7, D6-D7",15,KEYSW,SW_Cherry_MX_1.00u_PCB_LABEL,,,,tht,,,,,
+"D3-D15, D4-D15, D4-D18, D4-D7",4,KEYSW,SW_Cherry_MX_1.00u_PCB_LED_lines_LED_label,,,,tht,,,,,
+"D6-D14, D6-D15",2,SW_Cherry_MX_2.00u_PCB_none_label,SW_Cherry_MX_2.00u_PCB_none_label,,,,tht,,,,,
+J2,1,Conn_01x02_Socket,PH_S2B-PH2-K_1x02_P2.00mm_Horizontal,,,,tht,"Generic connector, single row, 01x02, script generated",,,,
+RESET,1,PTS526,PTS526,,,,smt,,,,,
+"SD9, SD9, SD9, SD9, SD9, SD9, SD9, SD9, SD9, SD9, SD9, SD9, SD9, SD9, SD9, SD9, SD9, SD9, SD9, SD9, SD9, SD9, SD9",23,1N4148W,D_SOD-123F,,,,smt,Diode,D,1=K 2=A,,
+SW43,1,PCM12SMTR,MSK-12C02 Toggle Switch,,,,smt,,,,Manufacturer Recommendation,C&K
